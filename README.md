@@ -4,9 +4,9 @@ CryptoDex is a simple browser app that uses the Coindesk API to convert the valu
 
 Technologies Used: 
 
-React.js
-Node.js
-Express
-Coindesk API
+- React.js
+- Node.js
+- Express
+- Coindesk API
 
 ### Deployed at: https://cryptodex-21dfd.firebaseapp.com/
