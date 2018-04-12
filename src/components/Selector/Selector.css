@@ -1,0 +1,25 @@
+.Selector {
+    float: left;
+    height: 300px;
+    width: 45%;
+    margin-left: 3.3%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background-color: black;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+}
+
+.Select {
+    height: 60px;
+    margin-top: 90px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.Selector button {
+    width: 50%;
+    height: 50px;
+    margin-left: 25%;
+    margin-top: 50px;
+}

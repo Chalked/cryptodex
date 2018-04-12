@@ -1,0 +1,22 @@
+.Results {
+    float: left;
+    height: 300px;
+    width: 45%;
+    margin-left: 3.3%;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    background-color: black;
+}
+
+.Results p {
+    color: white;
+    font-size: 18pt;
+    text-align: center;
+}
+
+@media (min-width: 500px) {
+    .Results p {
+        font-size: 26pt;
+    }
+}

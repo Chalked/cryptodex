@@ -1,0 +1,23 @@
+.Footer {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; 
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Footer a {
+    color: white;
+}
+
+.Footer p {
+    color: white;
+    
+}
