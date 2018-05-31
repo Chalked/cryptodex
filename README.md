@@ -9,4 +9,9 @@ Technologies Used:
 - Express
 - Coindesk API
 
+### Local Setup
+
+- Clone this repository.
+- In terminal, `npm install` and then `npm start`.
+
 ### Deployed at: https://cryptodex-21dfd.firebaseapp.com/
